@@ -1,0 +1,17 @@
+CREATE DATABASE market_m171;
+
+CREATE TABLE clientes
+(
+    id INT NOT NULL PRIMARY KEY AUTO_INCREMENT ,
+    nome VARCHAR(100) NOT NULL ,
+    telefone VARCHAR(30) ,
+    email VARCHAR(100) NOT NULL ,
+    cpf VARCHAR(15) NOT NULL ,
+    sexo VARCHAR(20) ,
+    filhos BOOLEAN ,
+    foto VARCHAR(200) DEFAULT 'sem_foto.jpg' ,
+    senha VARCHAR(200) NOT NULL ,
+    codCidade INT NOT NULL ,
+    FOREIGN KEY (codCidade) REFERENCES cidades(id)
+    
+);

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/M171/market/clientes.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/categorias.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/controller/salvarProduto.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/model/clsCliente.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/frmCliente.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/dao/clsCategoriasDAO.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/controller/salvarCidade.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/model/clsCidade.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/dao/clsClienteDAO.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/controller/salvarCategoria.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/dao/clsProdutosDAO.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/model/clsCategorias.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/controller/salvarCliente.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/produtos.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/dao/clsCidadeDAO.php</file>
+            <file>file:/C:/xampp/htdocs/M171/market/frmProduto.php</file>
+        </group>
+    </open-files>
+</project-private>
